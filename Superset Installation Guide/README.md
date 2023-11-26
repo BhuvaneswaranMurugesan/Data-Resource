@@ -1,7 +1,7 @@
 # Installing Apache Superset on Windows 10
 ⚠️ WARN: This doc might be outdated. Use with caution. Only tested with Python v3.7
 
-#Pre-Requisites
+# Pre-Requisites
 
 Install Microsoft Visual C++ 14.x standalone: Build Tools for Visual Studio 2019 (x86, x64, ARM, ARM64)
 
