@@ -16,9 +16,8 @@
 3.Use CMD to execute below commands (Recommended)
 
 # Installation
-
-    :: Create directory to host the files
-    
-The background color is `#0969DA` for light mode and `#000000` for dark mode.
-
+```
+:: Create directory to host the files
+mkdir D:\superset
 cd /d D:\superset
+```
