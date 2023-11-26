@@ -17,6 +17,8 @@
 
 # Installation
 
-:: Create directory to host the files
+    :: Create directory to host the files
+    
 mkdir D:\superset
+
 cd /d D:\superset
