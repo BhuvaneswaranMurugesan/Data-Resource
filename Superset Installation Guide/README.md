@@ -19,6 +19,6 @@
 
     :: Create directory to host the files
     
-`#RRGGBB`mkdir D:\superset
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 cd /d D:\superset
