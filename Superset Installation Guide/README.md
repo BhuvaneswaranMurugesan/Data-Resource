@@ -31,5 +31,8 @@ pip install --upgrade setuptools pip
 
 ```
 
-### Create Virtual Environment named venv
+### 2.Create Virtual Environment named venv
     python -m venv venv
+
+### 3.Activate Virtual Environment
+    venv\Scripts\activate
