@@ -20,4 +20,15 @@
 :: Create directory to host the files
 mkdir D:\superset
 cd /d D:\superset
+
+:: Check Versions
+python --version
+pip --version
+systeminfo | findstr /C:"OS"
+
+:: Upgrade Setuptools & PIP
+pip install --upgrade setuptools pip
+
+:: Create Virtual Environment named venv
+python -m venv venv
 ```
