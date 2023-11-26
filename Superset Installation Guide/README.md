@@ -9,7 +9,7 @@
   
     ii. Select Windows 10 SDK
 
-- George Washington
+_ George Washington
 
 Install Python [3.11.6](https://www.python.org/downloads/release/python-3116/)
 
