@@ -19,6 +19,6 @@
 
     :: Create directory to host the files
     
-mkdir D:\superset
+`#RRGGBB`mkdir D:\superset
 
 cd /d D:\superset
