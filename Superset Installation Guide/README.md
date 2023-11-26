@@ -13,4 +13,4 @@
 1. Install PIP within the installer
 2. Add Python 3.11.6 to PATH
 
-Use CMD to execute below commands (Recommended)
+3.Use CMD to execute below commands (Recommended)
