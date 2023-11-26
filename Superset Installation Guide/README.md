@@ -30,9 +30,23 @@ systeminfo | findstr /C:"OS"
 pip install --upgrade setuptools pip
 
 ```
+### 1.Install Virtual Environment
+    pip install virtualenv
 
 ### 2.Create Virtual Environment named venv
     python -m venv venv
 
 ### 3.Activate Virtual Environment
     venv\Scripts\activate
+
+### 4.Workaround - Install PIP within Virtual Environment
+    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py --ssl-no-revoke
+
+### 5.Workaround - Run get-pip.py
+    python get-pip.py
+
+### 6. Upgrade Setuptools & PIP
+    pip install --upgrade setuptools pip
+
+### 7.Locate the geohash file in Path
+python geohash file and geohash.py file into superset/venv/lib/Scripts/site_packages
