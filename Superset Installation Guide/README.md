@@ -1,5 +1,5 @@
 # Installing Apache Superset on Windows 10
-⚠️ WARN: This doc might be outdated. Use with caution. Only tested with Python v3.7
+⚠️ WARN: This doc might be outdated. Use with caution. Only tested with Python v3.11.6
 
 # Pre-Requisites
 
@@ -9,7 +9,7 @@ Select latest version of MSVCv142 - VS 2019 C++ x64/x86 build tools
 
 Select Windows 10 SDK
 
-Install Python 3.11.6
+Install Python [3.11.6](https://www.python.org/downloads/release/python-3116/)
 
 Install PIP within the installer
 
