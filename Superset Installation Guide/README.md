@@ -16,3 +16,7 @@
 3.Use CMD to execute below commands (Recommended)
 
 # Installation
+
+:: Create directory to host the files
+mkdir D:\superset
+cd /d D:\superset
