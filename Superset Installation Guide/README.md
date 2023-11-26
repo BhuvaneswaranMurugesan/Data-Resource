@@ -8,10 +8,9 @@
 1. Select latest version of MSVCv142 - VS 2019 C++ x64/x86 build tools
 2. Select Windows 10 SDK
 
-Install Python [3.11.6](https://www.python.org/downloads/release/python-3116/)
+2.Install Python [3.11.6](https://www.python.org/downloads/release/python-3116/)
 
-Install PIP within the installer
-
-Add Python 3.11.6 to PATH
+1. Install PIP within the installer
+2. Add Python 3.11.6 to PATH
 
 Use CMD to execute below commands (Recommended)
