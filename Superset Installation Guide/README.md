@@ -9,7 +9,9 @@
   
     ii. Select Windows 10 SDK
 
-_ George Washington
+1. James Madison
+1. James Monroe
+1. John Quincy Adams
 
 Install Python [3.11.6](https://www.python.org/downloads/release/python-3116/)
 
