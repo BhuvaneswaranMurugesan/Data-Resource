@@ -5,9 +5,9 @@
 
 1.Install Microsoft Visual C++ 14.x standalone: Build Tools for Visual Studio 2019 (x86, x64, ARM, ARM64)
 
-_i.Select latest version of MSVCv142 - VS 2019 C++ x64/x86 build tools
+i.Select latest version of MSVCv142 - VS 2019 C++ x64/x86 build tools
 
-    ii.Select Windows 10 SDK
+ii.Select Windows 10 SDK
 
 Install Python [3.11.6](https://www.python.org/downloads/release/python-3116/)
 
