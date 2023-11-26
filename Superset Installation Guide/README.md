@@ -49,10 +49,12 @@ pip install --upgrade setuptools pip
     pip install --upgrade setuptools pip
 
 ## 7.Locate the geohash file in Path
-python geohash file and geohash.py file into **D:\superset\venv\Lib\site-packages**
+python geohash file and **geohash.py** file and **python_geohash-0.8.5.dist-info Package Folder** into **D:\superset\venv\Lib\site-packages**
 
 ### 8.Install apache superset
     pip install apache-superset
 
 ### 9.Upgrade Superset db
     superset db upgrade
+
+### 10.
